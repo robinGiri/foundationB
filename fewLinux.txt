@@ -1,0 +1,8 @@
+pwd present working directy
+ls List 
+mkdir make directery
+touch create file (touch name.extension)
+cd change directroy
+"" makes single but if we are not using double column it will create on the basic of spaces
+rm remove file
+rm -rf remove folder
