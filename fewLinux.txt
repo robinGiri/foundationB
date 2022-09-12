@@ -1,8 +1,8 @@
-pwd present working directy
+pwd present working directory
 ls List 
-mkdir make directery
+mkdir make directory
 touch create file (touch name.extension)
-cd change directroy
+cd change directory
 "" makes single but if we are not using double column it will create on the basic of spaces
 rm remove file
 rm -rf remove folder

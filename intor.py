@@ -53,4 +53,3 @@ ask anything from user input
 name, age, location = input("Enter name and age and location (comma separated): ").split(",")
 
 print(f"hi!, my name is {name}, and I'm {age} yrs old, I'm from {location}")
-
